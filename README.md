@@ -2,6 +2,9 @@
 🚆🟧🟨
 中央線に愛がある人々の為のアプリ
 
+トピックを下記にまとめています。
+https://github.com/daijapan/chuo-sen-people/issues
+
 入会条件：
 - 中央線が好きですか？
 - 中央線が大好きですか？
